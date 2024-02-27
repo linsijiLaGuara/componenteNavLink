@@ -13,11 +13,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.App {
-  font-family: sans-serif;
-  text-align: center;
-}
-
-.active {
-  color: darkgreen;
-}
+ .App {
+ font-family: sans-serif;
+ text-align: center;
+ }
+ .active {
+ color: darkgreen;
+ }
