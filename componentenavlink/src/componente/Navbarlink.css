@@ -1,8 +1,17 @@
 .bg-navb {
     display: flex;
     justify-content: flex-end;
-
-    align-items: flex-start;
-    flex-wrap: nowrap;
+    align-items: center;
     background-color: black;
+    padding: 10px 0;
+
+}
+
+.nav-link {
+    margin-right: 20px;
+
+    padding: 10px 0;
+
+    text-decoration: none;
+
 }
